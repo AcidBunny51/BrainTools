@@ -1,7 +1,5 @@
 # BrainTools
 
-BrainTools **->** is a tool that i was working on it alone i did it in 2 hours, And it's my first time to do something in batch
-
 ## Pros :-
 - Easy to setup
 - Easy to use
