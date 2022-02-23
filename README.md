@@ -26,7 +26,7 @@
 - Then Browse and go to the driver that you extracted BrainTools.zip in it
 - Then choose BasicCPP_Compiler and go to bin and click ok
 - Do the same steps for CPP_ProjectMaker and click ok
-- To apply it on __*(Powershell, bash, command prompt and etc)*__ restart your terminal. **If it doesn't work, I highly recommend your to restart you computer!**
+- To apply it on __*(Powershell, bash, command prompt and etc)*__ restart your terminal. **If it doesn't work, I highly recommend you to restart you computer!**
 - Then all is yours!
 
 ## BrainTools Commands :-
